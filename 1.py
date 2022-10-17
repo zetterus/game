@@ -92,3 +92,4 @@ obj_info(a)
 print('-----')
 
 # item names!!! vasya, mb item ids?
+#asd
