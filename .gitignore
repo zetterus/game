@@ -3,6 +3,4 @@
 /scripts
 /.idea
 /pyvenv.cfg
-!game_main.py
-!game_objects.py
-!tests.py
+
